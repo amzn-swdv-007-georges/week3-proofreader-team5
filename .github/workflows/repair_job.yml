@@ -6,7 +6,7 @@ jobs:
   repair-check:
     runs-on: ubunut-latest
 
-    steps:
+  steps:
       name: Checkout Code
       uses: actions/checkout@v4
 
